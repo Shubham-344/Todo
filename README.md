@@ -1,9 +1,9 @@
 # Todo
 Assessment task.
 ![IMG-20250411-WA0013](https://github.com/user-attachments/assets/51b1708f-bcff-46c8-9f62-a857b07156b7)
-![IMG-20250411-WA0012](https://github.com/user-attachments/assets/e868dc4a-7227-4f46-9862-58cdeb5dbe4d)
+[IMG-20250411-WA0012](https://github.com/user-attachments/assets/e868dc4a-7227-4f46-9862-58cdeb5dbe4d)
 ![IMG-20250411-WA0011](https://github.com/user-attachments/assets/f5add178-db5a-4096-a963-40497648b322)
-![IMG-20250411-WA0010](https://github.com/user-attachments/assets/31c5710e-3ff2-4ca3-b7f8-93fe6d676c30)
+[IMG-20250411-WA0010](https://github.com/user-attachments/assets/31c5710e-3ff2-4ca3-b7f8-93fe6d676c30)
 
 https://github.com/user-attachments/assets/b5b00fad-dfa9-4347-9417-f119b5f81b03
 
